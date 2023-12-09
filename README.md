@@ -34,4 +34,8 @@ Procedure
 11. the page will show like this if done 
 <img width="952" alt="Screenshot 2023-12-09 at 7 02 03 PM" src="https://github.com/by8bye/Crownfunding/assets/126759451/dce10c80-fe54-4c35-bbba-f9cec7a12392">
 
-
+12. type cd .. in the terminal then type cd client
+13. Open the client file and type npm install
+14. after the installation, type npm run rev in the terminal
+15. the pages will pop out and you can connect your wallet to the webpage
+16. Start using it
