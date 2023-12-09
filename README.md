@@ -27,7 +27,7 @@ User dashboard to manage campaigns and donations
 3. Open the terminal in VS Code and run the command `npx thirdweb create --app`
 4. Name the Project "CrowdFunding", Choose Vite and JavaScript
    <img width="1418"  src="https://github.com/by8bye/Crownfunding/assets/126760063/eadf4e33-6899-4b7c-90fa-157db54ad42b">
-5. Run the command:
+5. Run the commands:
    ```
    cd  crowdfunding
    npm install react-router-dom
@@ -36,3 +36,4 @@ User dashboard to manage campaigns and donations
 6. Delete the **src** folder inside the **crowdfunding** folder
 7. Paste the **src** folder that downloaded form here into **crowdfunding** folder
 8. Paste the **tailwind.config.js** and **postcss.config.js** into **crowdfunding** folder
+9. Run the command `npm run dev`
