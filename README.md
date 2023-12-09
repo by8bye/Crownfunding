@@ -16,10 +16,10 @@ Authentication: JSON Web Tokens (JWT)
 
 
 ## How To Get Sepolia ETH
-1. download MetaMask and create your account 
-2. go to https://www.infura.io/faucet/sepolia?__cf_chl_rt_tk=jF_iVvqTNPNgqEQPTx8HEbbfxA60.6Uts2WIDDskC9s-1702024658-0-gaNycGzNEyU and paste your wallet address in the blank
+1. Download MetaMask and create your account 
+2. Go to https://www.infura.io/faucet/sepolia?__cf_chl_rt_tk=jF_iVvqTNPNgqEQPTx8HEbbfxA60.6Uts2WIDDskC9s-1702024658-0-gaNycGzNEyU and paste your wallet address in the blank
    <img width="1418" alt="Screenshot 2023-12-09 at 6 53 44 PM" src="https://github.com/by8bye/Crownfunding/assets/126759451/0b8766b5-e805-4f59-aa6f-6a3f2ebbb311">
-3. press receive ETH
+3. Press receive ETH
 
 ## Procedure
 1. Download the zip file. It contains our backend Solidity contract, the client for the frontend
