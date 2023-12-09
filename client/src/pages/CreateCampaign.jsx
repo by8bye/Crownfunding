@@ -34,7 +34,7 @@ const CreateCampaign = () => {
         setIsLoading(false);
         navigate('/');
       } else {
-        alert('Provide valid image URL')
+        alert('Please provide valid image URL')
         setForm({ ...form, image: '' });
       }
     })
@@ -58,7 +58,7 @@ const CreateCampaign = () => {
           />
           <FormField 
             labelName="Campaign Title *"
-            placeholder="Write a title"
+            placeholder="Your title"
             inputType="text"
             value={form.title}
             handleChange={(e) => handleFormFieldChange('title', e)}
@@ -67,7 +67,7 @@ const CreateCampaign = () => {
 
         <FormField 
             labelName="Story *"
-            placeholder="Write your story"
+            placeholder="Project Description"
             isTextArea
             value={form.description}
             handleChange={(e) => handleFormFieldChange('description', e)}
