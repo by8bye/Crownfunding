@@ -25,4 +25,4 @@ Authentication: JSON Web Tokens (JWT)
 1. Download the zip file. It contains our backend Solidity contract, the client for the frontend
 2. Open VS Code with a empty folder
 3. Open the terminal in VS Code and run the command `npx thirdweb create --app`
-   <img width="1418" alt="Screenshot 2023-12-09 at 6 53 44 PM" src="https://github.com/by8bye/Crownfunding/assets/126760063/eadf4e33-6899-4b7c-90fa-157db54ad42b">
+   <img width="1418"  src="https://github.com/by8bye/Crownfunding/assets/126760063/eadf4e33-6899-4b7c-90fa-157db54ad42b">
