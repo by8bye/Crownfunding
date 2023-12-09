@@ -22,7 +22,7 @@ User dashboard to manage campaigns and donations
 3. Press receive ETH
 
 ## Procedure
-1. Download the zip file. It contains our backend Solidity contract, the client for the frontend
+1. Download the zip file. It contains our backend Solidity contract and the client for the frontend
 2. Open VS Code with a empty folder
 3. Open the terminal in VS Code and run the command `npx thirdweb create --app`
 4. Name the Project "CrowdFunding", Choose Vite and JavaScript
