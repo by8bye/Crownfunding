@@ -10,9 +10,9 @@ Make donations to campaigns
 User dashboard to manage campaigns and donations
 
 ## Technologies Used
-Front-end: HTML, CSS(TailwindCSS), JavaScript, React.js
-Back-end: Node.js, Solidity
-Authentication: JSON Web Tokens (JWT)
+* Front-end: HTML, CSS(TailwindCSS), JavaScript, React.js
+* Back-end: Node.js, Solidity
+* Authentication: JSON Web Tokens (JWT)
 
 
 ## How To Get Sepolia ETH
