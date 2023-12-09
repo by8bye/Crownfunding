@@ -15,13 +15,14 @@ Back-end: Node.js, Solidity
 Authentication: JSON Web Tokens (JWT)
 
 
-## Procedure
-
-1. download the zip file of this code
-2. open the zip file in your pc
-3. open the file crownfunding in your program complier (vscode)
-4. download MetaMask and create your account 
-5. go to https://www.infura.io/faucet/sepolia?__cf_chl_rt_tk=jF_iVvqTNPNgqEQPTx8HEbbfxA60.6Uts2WIDDskC9s-1702024658-0-gaNycGzNEyU and paste your wallet address in the blank
+## How To Get Sepolia ETH
+1. download MetaMask and create your account 
+2. go to https://www.infura.io/faucet/sepolia?__cf_chl_rt_tk=jF_iVvqTNPNgqEQPTx8HEbbfxA60.6Uts2WIDDskC9s-1702024658-0-gaNycGzNEyU and paste your wallet address in the blank
    <img width="1418" alt="Screenshot 2023-12-09 at 6 53 44 PM" src="https://github.com/by8bye/Crownfunding/assets/126759451/0b8766b5-e805-4f59-aa6f-6a3f2ebbb311">
-6. press receive ETH
+3. press receive ETH
 
+## Procedure
+1. Download the zip file. It contains our backend Solidity contract, the client for the frontend
+2. Open VS Code with a empty folder
+3. Open the terminal in VS Code and run the command `npx thirdweb create --app`
+4. [image](https://github.com/by8bye/Crownfunding/assets/126760063/eadf4e33-6899-4b7c-90fa-157db54ad42b)
