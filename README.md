@@ -14,7 +14,6 @@ Front-end: HTML, CSS(TailwindCSS), JavaScript, React.js
 Back-end: Node.js, Solidity
 Authentication: JSON Web Tokens (JWT)
 
-## Prerequisites
 
 ## Procedure
 
@@ -24,6 +23,5 @@ Authentication: JSON Web Tokens (JWT)
 4. download MetaMask and create your account 
 5. go to https://www.infura.io/faucet/sepolia?__cf_chl_rt_tk=jF_iVvqTNPNgqEQPTx8HEbbfxA60.6Uts2WIDDskC9s-1702024658-0-gaNycGzNEyU and paste your wallet address in the blank
    <img width="1418" alt="Screenshot 2023-12-09 at 6 53 44 PM" src="https://github.com/by8bye/Crownfunding/assets/126759451/0b8766b5-e805-4f59-aa6f-6a3f2ebbb311">
-
 6. press receive ETH
 
